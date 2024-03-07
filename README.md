@@ -83,7 +83,7 @@ The lifecycle of a ticket typically involves the following stages:
 
 By adhering to these guidelines and continuously refining your ticket lifecycle process, you can ensure your help desk operates efficiently and effectively, maintaining high levels of user satisfaction and operational excellence.
 
-## IMPORTANT
+## IMPORTANT!
 When you are finsished with the lab, delete your Azure resources. This is crucial, as you will be charged credits for having resource groups. Best practice is to delete all resource groups and double check that they are deleted properly.
 
 Thanks for following along this lab!
